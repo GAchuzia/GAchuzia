@@ -8,7 +8,7 @@ Grant Achuzia here! <br>
 **About Me** <br>
 - Love to read 📖
 - Big fan of volleyball 🏐 & running 👟
-- Studying Computer Systems Engineering in Canada
+- Studying Computer Systems Engineering at Carleton University
 
 **Technologies & Tools** <br>
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
