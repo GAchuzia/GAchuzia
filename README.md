@@ -12,11 +12,13 @@ Grant Achuzia here! <br>
 
 
 **Technologies & Tools** <br>
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img height="32" width="32" src="media/python.svg"/>
+<img height="32" width="32" src="media/c.svg"/>
+<img height="32" width="32" src="media/javascript.svg"/>
+<img height="32" width="32" src="media/html5.svg"/>
+<img height="32" width="32" src="media/css3.svg"/>
+
+
 
 **Interests** <br>
 Data Management 💾
