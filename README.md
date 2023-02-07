@@ -1,4 +1,4 @@
-## **Heyy** 👋
+## **Helloo** 👋
 
 Grant Achuzia here! <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:achuziaduby@gmail.com)](mailto:achuziaduby@gmail.com)
@@ -7,22 +7,26 @@ Grant Achuzia here! <br>
 
 **About Me** <br>
 - Studying Computer Systems Engineering at Carleton University
-- Big fan of volleyball 🏐 & running 👟
-- Love to read 📖
+- 📖 Avid reader 📖
+
+![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAchuzia&show_icons=true&theme=dracula)     
+
+
+
+
+
+
 
 
 **Technologies & Tools** <br>
-<img height="32" width="32" src="media/python.svg"/>
-<img height="32" width="32" src="media/c.svg"/>
-<img height="32" width="32" src="media/javascript.svg"/>
-<img height="32" width="32" src="media/html5.svg"/>
-<img height="32" width="32" src="media/css3.svg"/>
+<img height="52" width="52" src="media/python.svg"/>
+<img height="52" width="52" src="media/c.svg"/>
+<img height="52" width="52" src="media/javascript.svg"/>
+<img height="52" width="52" src="media/java.svg"/>
+<img height="52" width="52" src="media/html5.svg"/>
+<img height="52" width="52" src="media/css3.svg"/>
 
 
-
-**Interests** <br>
-Data Management 💾
-Robotics 🤖 Web Development 🖥️
 
 <!---
 GAchuzia/GAchuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
