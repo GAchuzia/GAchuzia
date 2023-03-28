@@ -9,7 +9,7 @@ Grant Achuzia here! <br>
 - Studying Computer Systems Engineering at Carleton University
 - 📖 Avid reader 📖
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAchuzia&show_icons=true&theme=dracula)     
+   
 
 
 
