@@ -1,6 +1,9 @@
-<script src="./greetings.js"></script>
-## Greeting 👋
+## Greeting
 <h2 id="greeting"></h2>
+<script type="module">
+  import { getRandomGreeting } from './greetings.js';
+  document.querySelector("#greeting").textContent = getRandomGreeting();
+</script>
 
 Grant Achuzia here! <br>
 
@@ -29,8 +32,3 @@ Grant Achuzia here! <br>
 GAchuzia/GAchuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-<script>
-  document.querySelector("#greeting").textContent = getRandomGreeting();
-</script>
