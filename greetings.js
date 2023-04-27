@@ -14,11 +14,9 @@ const greetings = [
     "Sup",
 ]
 
-function getRandomGreeting(){
-    const randomIndex = Math.floor(Math.random() *greetings.length );
+export function getRandomGreeting() {
+    const randomIndex = Math.floor(Math.random() * greetings.length);
     return greetings[randomIndex];
 }
 
-module.exports = {
-    getRandomGreeting,
-};
+export { greetings };
