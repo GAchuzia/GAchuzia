@@ -1,21 +1,19 @@
-## **Helloo** 👋
+
+<script src="./greetings.js"></script>
+<script>
+  document.querySelector("#greeting").textContent = getRandomGreeting();
+</script>
+## Greeting 👋
+<h2 id="greeting"></h2>
 
 Grant Achuzia here! <br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:achuziaduby@gmail.com)](mailto:achuziaduby@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=inkedin.com/in/grant-achuzia-8259251b8/)](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GAchuzia)
+
 
 **About Me** <br>
-- Studying Computer Systems Engineering at Carleton University
-- 📖 Avid reader 📖
-
-   
-
-
-
-
-
-
+- Computer Systems Engineering student at Carleton University
+- Currently learning Python & Web Development
+- 📖 Currently reading [Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)
+- Learn a little more about me on my website
 
 
 **Technologies & Tools** <br>
@@ -26,7 +24,10 @@ Grant Achuzia here! <br>
 <img height="52" width="52" src="media/html5.svg"/>
 <img height="52" width="52" src="media/css3.svg"/>
 
-
+**Contact Me** <br>
+[<img src="media\linkedin icon.svg" width="50" height="50">](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
+[<img src="media\Gmail icon.svg" width="50" height="50">](mailto:achuziaduby@gmail.com)
+[<img src="media\github icon.svg" width="50" height="50">](https://github.com/GAchuzia)
 
 <!---
 GAchuzia/GAchuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
