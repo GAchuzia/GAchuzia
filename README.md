@@ -1,9 +1,4 @@
 ## Greeting
-<h2 id="greeting"></h2>
-<script type="module">
-  import { getRandomGreeting } from './greetings.js';
-  document.querySelector("#greeting").textContent = getRandomGreeting();
-</script>
 
 Grant Achuzia here! <br>
 
