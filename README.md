@@ -10,7 +10,7 @@
 
 ## About Me <br>
 
-- Studying Computer Sys. Engineering @ Carleton University <img height="15" width="16" src="media\carleton_logo.jpg"/>
+- Studying Computer Sys. Engineering @ Carleton University 
 - Currently learning Python <img height="12" width="12" src="media/python.svg"/> & Web Development 💻
 - 📖 Currently reading [Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)📖 
 
