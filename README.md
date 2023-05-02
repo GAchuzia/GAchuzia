@@ -9,8 +9,8 @@
 ## What I'm Up To
 - Currently learning Python <img height="12" width="12" src="media/python.svg"/> & Web Development 💻
 - 📖 Currently reading [Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)📖 
-- Working on Borealis AI's LSi Program  
-[![EduEval](https://svg.bookmark.style/api?url=https://github.com/linguini1/EduEval&mode=dark&style=horizontal)](https://github.com/linguini1/EduEval)
+- Working on updating my document information scraper for Roof Maintenance Solutions  
+[![EduEval](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/Info-Grabber&mode=dark&style=horizontal)](https://github.com/GAchuzia/Info-Grabber)
 
 ---
 ## Tools & Technologies <br>
