@@ -19,7 +19,7 @@
 
 ---
 
-## Contact Me 
+## Connect With Me 
 
 [<img src="media\linkedin icon.svg" width="50" height="50">](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
 [<img src="media\Gmail icon.svg" width="50" height="50">](mailto:achuziaduby@gmail.com)
