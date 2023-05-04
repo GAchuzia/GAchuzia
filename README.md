@@ -9,9 +9,9 @@
 ## What I'm Up To
 - Currently learning Python <img height="12" width="12" src="media/python.svg"/> & Web Development 💻
 - 📖 Currently reading [Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)📖 
-- Working on updating my text-based information scraper for Roof Maintenance Solutions  
+- Just finished updating my text-based information scraper for Roof Maintenance Solutions  
 [![EduEval](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/Info-Grabber&mode=dark&style=horizontal)](https://github.com/GAchuzia/Info-Grabber)
-
+- Building a simple website to practice mental math
 ---
 ## Tools & Technologies <br>
 
