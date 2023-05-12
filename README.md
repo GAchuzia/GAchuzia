@@ -7,11 +7,13 @@
 ---
 
 ## What I'm Up To
-- Currently learning Python <img height="12" width="12" src="media/python.svg"/> & Web Development 💻
+
 - 📖 Currently reading [Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)📖 
-- Just finished updating my text-based information scraper for Roof Maintenance Solutions  
-[![EduEval](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/Info-Grabber&mode=dark&style=horizontal)](https://github.com/GAchuzia/info-grabber)
-- Building a simple website to practice mental math
+- Updated my [text-based information scraper](https://github.com/GAchuzia/info-grabber) for Roof Maintenance Solutions  
+- Working on The Odin Project Curriculum to strengthen my webdev skills
+[![odin-proj](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/odin-project&mode=dark&style=horizontal)](https://github.com/GAchuzia/odin-project)
+- Building my personal startpage
+[![launch-pad](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/launch-pad&mode=dark&style=horizontal)](https://github.com/GAchuzia/launch-pad)
 ---
 ## Tools & Technologies <br>
 
