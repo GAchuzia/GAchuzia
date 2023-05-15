@@ -13,7 +13,7 @@
 - Working on The Odin Project Curriculum to strengthen my webdev skills
 [![odin-proj](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/odin-project&mode=dark&style=horizontal)](https://github.com/GAchuzia/odin-project)
 - Building my personal startpage
-[![launch-pad](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/launch-pad&mode=dark&style=horizontal)](https://github.com/GAchuzia/launch-pad)
+
 ---
 ## Tools & Technologies <br>
 
