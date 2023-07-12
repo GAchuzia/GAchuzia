@@ -8,11 +8,11 @@
 
 ## What I'm Up To
 
-- 📖 Currently reading [Soul of a New Machine](https://en.wikipedia.org/wiki/The_Soul_of_a_New_Machine)📖 
+- 📖 Currently reading [The Troop](https://en.wikipedia.org/wiki/The_Troop_(book))📖 
 - Updated my [text-based information scraper](https://github.com/GAchuzia/info-grabber) for Roof Maintenance Solutions  
-- Working on The Odin Project Curriculum to strengthen my webdev skills
-[![odin-proj](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/odin-project&mode=dark&style=horizontal)](https://github.com/GAchuzia/odin-project)
-- Building my personal startpage
+- Working on a mental math website to practice my math skills
+[![triple-m](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/triple-m&mode=dark&style=horizontal)](https://github.com/GAchuzia/triple-m)
+- Currently building a password manager
 
 ---
 ## Tools & Technologies <br>
