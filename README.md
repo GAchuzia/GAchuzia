@@ -1,29 +1,33 @@
 # Helloo, Grant Achuzia here! 👋
-- Studying Computer Sys. Engineering @ Carleton University 
-- Love reading 📘, playing volley ball 🏐, and  running 👟
-- Always looking for new ways to apply my skills and knowledge to make a positive impact! 
 
-
----
-
-## What I'm Up To
-
-- 📖 Currently reading [The Troop](https://en.wikipedia.org/wiki/The_Troop_(book))📖 
-- Working on a mental math website to practice my math skills
-[![triple-m](https://svg.bookmark.style/api?url=https://github.com/GAchuzia/triple-m&mode=dark&style=horizontal)](https://github.com/GAchuzia/triple-m)
-
----
-## Tools & Technologies <br>
-
-<img height="52" width="52" src="media/python.svg"/><img height="52" width="52" src="media/c.svg"/><img height="52" width="52" src="media/javascript.svg"/> <img height="52" width="52" src="media/java.svg"/><img height="52" width="52" src="media/html5.svg"/><img height="52" width="52" src="media/css3.svg"/>
+- Studying Computer Systems Engineering @ Carleton University
+- I'm an avid reader 📖
+- Always looking to increase and improve my understanding of the world around me!
 
 ---
 
-## Connect With Me 
+## Current Projects
 
-[<img src="media\linkedin icon.svg" width="50" height="50">](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
-[<img src="media\Gmail icon.svg" width="50" height="50">](mailto:achuziaduby@gmail.com)
-[<img src="media\github icon.svg" width="50" height="50">](https://github.com/GAchuzia)
+- Just finished reading [Norse Mythology by Neil Gaimen](https://www.neilgaiman.com/works/Books/Norse+Mythology/), currently reading [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich)
+- Working on improving my proficiency in varying programming languages and technical concepts
+
+---
+
+## Tools & Technologies  
+
+<img height="32" width="32" src="media/python.svg"/>  
+<img height="32" width="32" src="media/c.svg"/>
+<img height="32" width="32" src="media/javascript.svg"/>
+<img height="32" width="32" src="media/java.svg"/>
+<img height="32" width="32" src="media/html5.svg"/>
+<img height="32" width="32" src="media/css3.svg"/>
+
+---
+
+## Contact Me
+
+[<img src="media\linkedin icon.svg" width="36" height="36">](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
+[<img src="media\Gmail icon.svg" width="32" height="32">](mailto:achuziaduby@gmail.com)
 
 <!---
 GAchuzia/GAchuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
