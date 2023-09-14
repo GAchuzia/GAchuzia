@@ -9,7 +9,7 @@
 ## Current Projects
 
 - Just finished reading [Norse Mythology by Neil Gaimen](https://www.neilgaiman.com/works/Books/Norse+Mythology/), currently reading [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich)
-- Working on improving my proficiency in varying programming languages and technical concepts
+- Working on building [my portfolio-website](https://gachuzia.github.io/portfolio-website/)
 
 ---
 
