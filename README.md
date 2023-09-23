@@ -1,21 +1,22 @@
 # Helloo, Grant Achuzia here! 👋
 
-- Studying Computer Systems Engineering @ Carleton University
-- I'm an avid reader 📖
-- Always looking to increase and improve my understanding of the world around me!
+- Computer Systems Engineering student @ Carleton University 🍁
+- Slowly trying to become an info sponge
+- Love to read (almost) anything
 
 ---
 
 ## Current Projects
 
 🖥️ **Coding** 🖥️
+
 - Check out my new [portfolio-website](https://gachuzia.github.io/portfolio-website/)!
 - Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys)
 
 📖 **Reading** 📖
+
 - Just finished reading [Norse Mythology by Neil Gaimen](https://www.neilgaiman.com/works/Books/Norse+Mythology/), currently listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich)
 - [Alice's Adventures in Wonderland, 1865 version](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
-
 
 ---
 
