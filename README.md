@@ -10,7 +10,7 @@
 
 🖥️ **Coding** 🖥️
 - Check out my new [portfolio-website](https://gachuzia.github.io/portfolio-website/)!
-- Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://github.com/GAchuzia/loki-ploys)
+- Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys)
 
 📖 **Reading** 📖
 - Just finished reading [Norse Mythology by Neil Gaimen](https://www.neilgaiman.com/works/Books/Norse+Mythology/), currently listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich)
