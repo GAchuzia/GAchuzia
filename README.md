@@ -9,7 +9,7 @@
 ## Current Projects
 
 🖥️ **Coding** 🖥️
-- Check out my [my portfolio-website](https://gachuzia.github.io/portfolio-website/)!
+- Check out my new [portfolio-website](https://gachuzia.github.io/portfolio-website/)!
 - Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://github.com/GAchuzia/loki-ploys)
 
 📖 **Reading** 📖
