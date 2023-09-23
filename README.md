@@ -1,4 +1,4 @@
-# Helloo, Grant Achuzia here! 👋
+# Helloooo, Grant here! 👋
 
 - Computer Systems Engineering student @ Carleton University 🍁
 - Slowly trying to become an info sponge
