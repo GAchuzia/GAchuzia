@@ -1,7 +1,7 @@
 # Helloooo, Grant here! 👋
 
 - Computer Systems Engineering student @ Carleton University 🍁
-- Love to read (almost) anything
+- Love to read (**almost**) anything
 
 ---
 
@@ -14,8 +14,7 @@
 
 📖 **Reading** 📖
 
-- [Alice's Adventures in Wonderland, 1865 version](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
-- Just finished reading [Norse Mythology by Neil Gaimen](https://www.neilgaiman.com/works/Books/Norse+Mythology/), currently listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich)
+- Just finished listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich), now reading [Alice's Adventures in Wonderland, 1865 version](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
 
 ---
 
