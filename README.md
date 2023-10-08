@@ -10,6 +10,7 @@
 🖥️ **Coding** 🖥️
 
 - Check out my new [portfolio-website](https://gachuzia.github.io/portfolio-website/)!
+- Working on [Double-M](https://github.com/GAchuzia/double-m) a very simple (and very buggy) terminal mental math practice game
 - Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys)
 
 📖 **Reading** 📖
