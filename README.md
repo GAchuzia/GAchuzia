@@ -25,10 +25,10 @@
 <div>
     <img height="52" width="52" src="media/python.svg"/>  
     <img height="52" width="52" src="media/c.svg"/>
-    <img height="52" width="52" src="media/java.svg"/>
     <img height="52" width="52" src="media/javascript.svg"/>
     <img height="52" width="52" src="media/html5.svg"/>
     <img height="52" width="52" src="media/css3.svg"/>
+    <img height="52" width="52" src="media/java.svg"/>
 </div>
 
 ---
