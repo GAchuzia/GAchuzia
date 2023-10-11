@@ -10,12 +10,13 @@
 🖥️ **Coding** 🖥️
 
 - Check out my new [portfolio-website](https://gachuzia.github.io/portfolio-website/)!
-- Working on [Triple-M-Lite](https://github.com/GAchuzia/triple-m-lite), a very simple (and very buggy) terminal mental math practice game
+- Working on a very simple terminal mental math game, [Triple-M-Lite](https://github.com/GAchuzia/triple-m-lite)
 - Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys)
 
 📖 **Reading** 📖
 
-- Just finished listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich), now reading [Alice's Adventures in Wonderland, 1865 version](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
+- Just finished listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich), now listening to [The Making of the Atomic Bomb, by Richard Rhodes.](https://en.wikipedia.org/wiki/The_Making_of_the_Atomic_Bomb)
+- Also reading [Alice's Adventures in Wonderland, 1865 version](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
 
 ---
 
@@ -34,7 +35,7 @@
 
 ## Contact Me
 
-[<img src="media\linkedin icon.svg" width="56" height="56">](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
+[<img src="media\linkedin icon.svg" width="63" height="63">](https://www.linkedin.com/in/grant-achuzia-8259251b8/)
 [<img src="media\Gmail icon.svg" width="52" height="52">](mailto:achuziaduby@gmail.com)
 
 <!---
