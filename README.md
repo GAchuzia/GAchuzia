@@ -1,7 +1,8 @@
 # Helloooo, Grant here! 👋
 
-- Computer Systems Engineering student @ Carleton University 🍁
+- Computer Sys. Engineering student @ Carleton University 🍁
 - Love to read (**almost**) anything
+- Check out [my website!](https://gachuzia.github.io/portfolio-website/)
 
 ---
 
@@ -9,9 +10,8 @@
 
 🖥️ **Coding** 🖥️
 
-- Check out my new [portfolio-website](https://gachuzia.github.io/portfolio-website/)!
-- Working on a very simple terminal mental math game, [Triple-M-Lite](https://github.com/GAchuzia/triple-m-lite)
-- Working through [The Odin Project](https://www.theodinproject.com/) courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys)
+- Made a very simple terminal mental math game; [Triple-M-Lite](https://github.com/GAchuzia/triple-m-lite)
+- Working through The Odin Project courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys)
 
 📖 **Reading** 📖
 
