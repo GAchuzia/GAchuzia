@@ -15,8 +15,8 @@
 
 📖 **Reading** 📖
 
+- Just read [Treasure Island by Robert Louis Stevenson](https://en.wikipedia.org/wiki/Treasure_Island)
 - Just finished listening to [The Rise and Fall of the Thrid Reich by William L. Shirer](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich), now listening to [The Making of the Atomic Bomb, by Richard Rhodes.](https://en.wikipedia.org/wiki/The_Making_of_the_Atomic_Bomb)
-- Also reading [Alice's Adventures in Wonderland, 1865 version](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
 
 ---
 
