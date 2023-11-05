@@ -1,6 +1,7 @@
 # Hellooo, Grant here! 👋
 
-Computer Sys. Engineering student @ Carleton University 🍁 who loves to read (**almost**) anything. Feel free to check out [my website](https://gachuzia.github.io/portfolio-website/)!
+Computer Sys. Engineering student @ Carleton University 🍁 who loves to read (**almost**) anything. <br> 
+- Feel free to check out [my website](https://gachuzia.github.io/portfolio-website/)!
 
 
 
