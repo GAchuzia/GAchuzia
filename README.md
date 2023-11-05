@@ -1,4 +1,4 @@
-# Helloooo, Grant here! 👋
+# Hey, Grant here! 👋
 
 - Computer Sys. Engineering student @ Carleton University 🍁
 - Love to read (**almost**) anything
@@ -8,7 +8,7 @@
 
 **Featured Activities**
 
-🖥️Working through The Odin Project courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys) 🖥️
+🖥️ Working through The Odin Project courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys) 🖥️
 
 📖 Reading [Shogun by James Clavell](https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(novel)) 📖
 
