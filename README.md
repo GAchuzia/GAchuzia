@@ -8,7 +8,7 @@ Computer Sys. Engineering student @ Carleton University 🍁 who loves to read (
 
 💾 Working through The Odin Project courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys) 💾
 
-📖 Reading [Parable of the Talents by Octavia E. Butler](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) 📖
+📖 Reading [Super Powereds Year 1 by Drew Hayes](https://www.drewhayesnovels.com/superpowereds) 📖
 
 ## Tools & Technologies  🖥️
 
