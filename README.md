@@ -2,7 +2,7 @@
 
 Computer Sys. Engineering student @ Carleton University 🍁 who loves to read (**almost**) anything. <br>
 
-- Feel free to check out [my website](https://gachuzia.github.io/portfolio-website/)!
+- Feel free to check out [my website](https://gachuzia.github.io/gachuzias-website/)!
 
 ## Featured Activities 🗃️
 
