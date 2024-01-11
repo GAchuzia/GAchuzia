@@ -8,7 +8,7 @@ Computer Sys. Engineering student @ Carleton University 🍁 who loves to read (
 
 💾 Working through The Odin Project courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys) 💾
 
-📖 Reading [Super Powereds Year 1 by Drew Hayes](https://www.drewhayesnovels.com/superpowereds) 📖
+📖 Reading [Super Powereds Year 3 by Drew Hayes](https://www.drewhayesnovels.com/superpowereds) 📖
 
 ## Tools & Technologies  🖥️
 
