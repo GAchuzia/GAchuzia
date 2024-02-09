@@ -1,24 +1,22 @@
 # Hellooo, Grant here! 👋
 
-Computer Sys. Engineering student @ Carleton University 🍁 who loves to read (**almost**) anything. <br>
+- Computer Sys. Engineering student just trying to become a better developer. <br>
 
-- Feel free to check out [my website](https://gachuzia.github.io/gachuzias-website/)!
+- Check out [my website](https://gachuzia.github.io/gachuzias-website/)!
 
 ## Featured Activities 🗃️
 
-💾 Working through The Odin Project courses, and posting my assignments in my repo [Loki's Ploys](https://gachuzia.github.io/loki-ploys) 💾
-
-📖 Reading [Super Powereds Year 4 by Drew Hayes](https://www.drewhayesnovels.com/superpowereds) 📖
+📖 Reading [Under the Whispering Door by T.J. Klune](https://www.tjklunebooks.com/under-the-whispering-door) 📖
 
 ## Tools & Technologies  🖥️
 
 <div>
-    <img height="42" width="42" src="media/python.svg"/>  
-    <img height="42" width="42" src="media/c.svg"/>
-    <img height="42" width="42" src="media/javascript.svg"/>
-    <img height="42" width="42" src="media/html5.svg"/>
-    <img height="42" width="42" src="media/css3.svg"/>
-    <img height="42" width="42" src="media/java.svg"/>
+    <img height="32" width="32" src="media/python.svg"/>  
+    <img height="32" width="32" src="media/c.svg"/>
+    <img height="32" width="32" src="media/javascript.svg"/>
+    <img height="32" width="32" src="media/html5.svg"/>
+    <img height="32" width="32" src="media/css3.svg"/>
+    <img height="32" width="32" src="media/java.svg"/>
 </div>
 
 <!---
