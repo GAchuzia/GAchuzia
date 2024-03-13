@@ -6,7 +6,7 @@
 
 ## Featured Activities
 
-- Building [*YAG* Todo](), a simple todo app made with Flask and SQLite
+- Building [*YAG* Todo](https://github.com/GAchuzia/yag-todo), a simple todo app made with Flask and SQLite
 - Learning JavaScript to build cooler applications
 
 ## Tools & Technologies  
