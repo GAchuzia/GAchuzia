@@ -1,6 +1,6 @@
 # Hellooo, Grant here
 
-I make stuff sometimes, and you learn a bit about me from my [neat website!](https://gachuzia.github.io/gachuzias-website/)
+I make stuff sometimes, and you can learn a bit about me from my [neat website!](https://gachuzia.github.io/gachuzias-website/)
 
 ## Working On 💾
 
