@@ -8,7 +8,7 @@
 
 Computer Systems Engineering @ Carleton University 🍁
 
-Avid reader who (sometimes) likes to [code](https://gachuzia.com/projects)  
+Avid reader who (sometimes) likes to [code](https://github.com/GAchuzia?tab=repositories)  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Grant Achuzia](https://img.shields.io/badge/Grant%20Achuzia-white?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/grant-achuzia-8259251b8/) 
 
