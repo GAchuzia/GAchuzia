@@ -1,4 +1,4 @@
-Here's some of my coolest work :D
+Here's some of my cooler(ish) works 
 
 <!---
 GAchuzia/GAchuzia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
